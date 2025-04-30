@@ -36,7 +36,7 @@ var ractive = Ractive({
   data: { greeting: 'Hello', name: 'world' }
 });
 ```
-Execute the code (with the &#9654; button). It should look exactly as it did before.
+Execute the code (with the &#9674; button). It should look exactly as it did before.
 
 ## Step 3
 <div class="tutorial">
@@ -64,8 +64,8 @@ Ooh la la! Even better, we could set both properties in one go. Let's do it in M
 <div data-runtutorial="N4IgFiBcoE5SBTAJgcwSAvgGhAF3gDxICWAbgATFIC8AOngIYxq70B8BA9CaW7QHYCCAZwDGMYgAdclGvVwIAtpIA2DBfXK4AnpIR08CAB65OMBqNxkE7AbVwFJbYMBQwECK-xQZs5F-wMigi+AIRcTkKcYhLSbCA4wvCkTOTmltbk1OT8CADu5ABKFlakCAAUwALkWkwskOQA5ADEuHWejVjVWkqq6ggNLQrKagqd3UjqDA3A5G4eXiiDABIIKioA9p05QQNNeRswKkiN5BgCGACUANwCmEA" data-eval="E4QwxgLglgbgpgOgM5wgCgN4CgAEODmwcqUAdvgFw4DkgBvKC+mtQDS46kgC2cV1gaHKAyrtSwBfAJQBuIA"></div>
 ```js
 ractive.set({
-  greeting: '你好',
-  name: '世界'
+  greeting: 'Привет',
+  name: 'Твоё дело'
 });
 ```
 
